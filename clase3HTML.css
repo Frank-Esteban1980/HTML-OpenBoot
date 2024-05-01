@@ -1,0 +1,13 @@
+h2{
+    background-color: greenyellow;
+    text-align: center;
+    width: 500px;
+    border-radius: 35px;
+}
+
+img{
+    border: solid black ;
+    padding: 5px;
+    border-radius: 35px;
+
+}
